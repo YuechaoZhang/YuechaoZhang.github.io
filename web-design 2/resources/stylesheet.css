@@ -1,0 +1,133 @@
+
+body {
+	width: 1260px;
+	background: linear-gradient(-90deg, rgb(168,216,185), rgb(165,222,228), rgb(102,186,183));
+	text-align: center;
+	display:block;
+	margin:auto;
+}
+
+
+h1{
+	font-family: 'Indie Flower', cursive;
+	font-size: 120px;
+	margin: 0;
+}
+
+p{
+	font-family: 'Rock Salt', cursive;
+	font-size: 24px;
+	color:rgb(58,143,183);
+	text-align: right;
+	margin-right: 90px; 
+}
+
+.final{
+	padding:0 20%;
+}
+
+.final p{
+	width:100%;
+	text-align: center;
+	color:rgb(54,86,60);
+}
+
+span{
+	color: rgb(241,124,103);
+}
+
+#topcao{
+	width:64px;
+	position: absolute;
+    center: 700px;
+	margin-top: 110px;
+	margin-right: 30px;
+	margin-left:30px;
+	box-shadow: none;
+}
+
+#caocaologo {
+	width: 20px;
+	 box-shadow:none;
+	}
+#haha{
+	margin-bottom: 20px;
+}
+
+
+	
+ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 0;
+    overflow: hidden;
+	
+}
+
+li {
+ 
+	width: 450px;
+	margin: 0 auto;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 24px;
+}
+
+iframe{
+	 margin-bottom: 20px;
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	 border-radius:15px;
+}
+
+img{
+	 width: 1080px;
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	 border-radius:15px;
+}
+
+a{ 
+	text-decoration: none;
+	color: rgb(24,129,62);
+}
+
+a:hover{ 
+	text-decoration: inherit;
+	color:rgb(125,185,222);
+	font-size:1.4em;
+	transition: .2s ;
+}
+
+div.polaroid {
+  width: 1080px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left:90px;
+  border-radius:15px;
+}
+
+div.container {
+  padding: 10px;
+}
+
+.button{
+	margin-bottom: 20px;
+	border:none;
+	background-color: white;
+    font-size: 15px;
+    font-family: 'Gloria Hallelujah', cursive;
+    border-radius: 10px;
+}
+
+.button:hover{
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.now{
+	color: rgb(236,184,138); 
+	width: 1080px;
+}
+
+.now:hover{
+	color:rgb(241,148,131);
+}
